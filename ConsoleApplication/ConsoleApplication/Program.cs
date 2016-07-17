@@ -11,6 +11,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Feature-A");
+            Console.WriteLine("Feature-A second change");
             Console.ReadLine();
         }
     }
